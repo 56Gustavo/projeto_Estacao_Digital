@@ -1,3 +1,4 @@
+
 import Header from '../../components/Header/Header';
 import Resultado from '../../components/Resultado/resultado';
 import Provider from '../../context/Provider';
